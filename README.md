@@ -1,16 +1,29 @@
-## Hi there 👋
+<h2> Hi, I'm Alireza Shahidiani! <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTJ0MWh6MDJndTl6aG0wb21kMWFjZ3k2a2ttYjQwdnUyOWVyZWdqbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="50"></h2>
+<img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzBmanNpcDVuYzh1Y2NsazkwcWtqdjNsbDlqYTd1Z3FmenU2ajViaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10DT9obievd8NW/giphy.gif" width="230">
+<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Engineer at <a href="https://international.nubank.com.br/about/">Nubank</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<!--
-**Shervinrtd/Shervinrtd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin: alireza-shahidiani](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alireza-shahidiani/)](https://www.linkedin.com/in/alireza-shahidiani/)
+[![GitHub Shervinrtd](https://img.shields.io/github/followers/Shervinrtd?label=follow&style=social)](https://github.com/Shervinrtd)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const Alireza = {
+  pronouns: "he" | "him",
+  code: [Laravel, Pytorch, PHP, C++, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
